@@ -1,9 +1,9 @@
 {
-    "name": "chrisshick/cakephp3-html-purifier",
+    "name": "ypnos-web/cakephp3-html-purifier",
     "type": "cakephp-plugin",
     "description": "This is a CakePHP3 Purifier Plugin Behavior that cleanses data before it is marshalled into the entity.",
     "keywords": ["cakephp", "cakephp3", "plugin", "htmlpurifier", "purifier", "fields", "entities"],
-    "homepage": "https://github.com/chrisShick/CakePHP3-HtmlPurifier",
+    "homepage": "https://github.com/ypnos-web/CakePHP3-HtmlPurifier",
     "require": {
         "php": ">=5.4.0",
         "ezyang/htmlpurifier": "*"
